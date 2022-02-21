@@ -8,6 +8,7 @@
   "synoinfo": {
     "supportsystemperature": "no",
     "supportsystempwarning": "no"
+    "maxdisks" : "16",
   },
   "ramdisk_copy": {}
 }
