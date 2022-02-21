@@ -9,8 +9,6 @@
   },
   "synoinfo": {
     "maxdisks": "16",
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no"
   },
   "ramdisk_copy": {}
   "extensions": []
