@@ -39,6 +39,5 @@ cp ${root}/user_config.DS918+.json ./user_config.json
 ./ext-manager.sh add https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/releases/ds918p_42218.json
 ./ext-manager.sh add https://github.com/jumkey/redpill-load/raw/develop/redpill-acpid/recipes/universal.json
 sudo ./build-loader.sh 'DS918+' '7.0.1-42218'
-
 mv images/redpill-DS918+_7.0.1-4221*.img ${root}/output/
 cd ${root}
